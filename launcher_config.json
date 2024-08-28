@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl": "https://github.com/hecmo94/canarylauncher/releases/download/tibia/lunartibia13.34.zip",
+	"newClientUrl": "https://github.com/hecmo94/canarylauncher/releases/download/tibia1340/tibia-client-feat-client-13.40.zip",
 	"clientExecutable": "client.exe"
 }
